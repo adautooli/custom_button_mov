@@ -1,6 +1,6 @@
 // ignore_for_file: constant_identifier_names, prefer_if_null_operators, use_key_in_widget_constructors, must_be_immutable, prefer_typing_uninitialized_variables
 
-library social_signin_buttons;
+library custom_button_mov;
 
 import 'package:flutter/material.dart';
 
