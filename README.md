@@ -18,57 +18,21 @@ To use this package :
   dependencies:
     flutter:
       sdk: flutter
-    social_signin_buttons:
+    custom_button_mov:
 ```
 
 ### How to use
 
 ```dart
-class Test extends StatelessWidget {
- 
-  void _showButtonPressDialog(BuildContext context, String btn) {
-    Scaffold.of(context).showSnackBar(SnackBar(
-      content: Text('$btn Button Pressed!'),
-      backgroundColor: Colors.black26,
-      duration: Duration(milliseconds: 400),
-    ));
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      child: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            SignInButton(
-              Buttons.Google,
-              onPressed: () {
-                _showButtonPressDialog(context, 'Google');
-              },
-            ),
-          ],
-        ),
-      ),
-    );
-  }
-}
+CustomButton(
+                key: null,
+                onPressed: _incrementCounter,
+                child: const Text("Incrementar")),
 
 ```
 
-### List Of Buttons
-* Buttons.Google
-* Buttons.Facebook
-* Buttons.Microsoft
-* Buttons.Apple
-* Buttons.Github
-* Buttons.LinkedIn
-* Buttons.Twitter
-* Buttons.Email
-
-
 # License
-Copyright (c) 2020 Adauto Oliveira
+Copyright (c) 2023 Adauto Oliveira
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
