@@ -1,6 +1,6 @@
 name: custom_button_mov
 description: A simple package to create a social sign buttons in flutter.
-version: 0.0.5
+version: 0.0.6
 homepage: https://github.com/adautooli/social_buttons_mov
 
 environment:
