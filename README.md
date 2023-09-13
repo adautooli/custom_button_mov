@@ -1,4 +1,4 @@
-# social_signin_buttons
+# Custom_button_mov
 
 A Flutter package for both android and iOS which provides custom Buttons
 
