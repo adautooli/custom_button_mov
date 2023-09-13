@@ -146,13 +146,13 @@
       "languageVersion": "3.1"
     },
     {
-      "name": "social_buttons_mov",
+      "name": "custom_button_mov",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-13T20:12:29.178817Z",
+  "generated": "2023-09-13T22:36:52.623495Z",
   "generator": "pub",
   "generatorVersion": "3.1.1"
 }
