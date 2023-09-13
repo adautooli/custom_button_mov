@@ -4,15 +4,11 @@ A Flutter package for both android and iOS which provides Social signIn Buttons
 
 ## Screenshots
 
-<img src="https://github.com/parth58/Social-SignIn-Buttons/blob/master/screenshots/ss.png" height="400em" width="225em" />
-
-## Usage
-
-[Example](https://github.com/parth58/Social-SignIn-Buttons/blob/master/example/lib/main.dart)
+<img src="https://github.com/adautooli/custom_button_mov/blob/main/screenshots/ss1.png" height="400em" width="225em" />
 
 To use this package :
 
-* add the dependency to your [pubspec.yaml](https://github.com/parth58/Social-SignIn-Buttons/blob/master/pubspec.yaml) file.
+* add the dependency to your [pubspec.yaml](https://github.com/adautooli/custom_button_mov/blob/main/pubspec.yaml) file.
 
 ```yaml
   dependencies:
